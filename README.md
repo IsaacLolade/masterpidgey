@@ -1,4 +1,5 @@
-git clone https://github.com/IsaacLolade/masterpidgey.git
+|NOMBRE |   | GITHUB|
 
-nano README.md
-
+|CARLES| |[CARLES](https://github.com/CharlyMech)|
+|DAVID|  |[DAVID](https://github.com/DavidTous)|
+|HUGO|   |[HUGO](https://github.com/NoObX17)|
